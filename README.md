@@ -1,2 +1,3 @@
 # Hello-World
-Learning how to use GitHub
+
+This is me following the GitHub tutorial. The primary purpose is to improve my skills in software engineering. 
